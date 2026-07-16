@@ -1,6 +1,6 @@
 # Silkworm Detection & Counting System
 
-> An AI-powered computer vision application that estimates and counts the number of silkworms present in a basket or tray using YOLO11 object detection.
+> A computer vision application that estimates and counts the number of silkworms present in a basket or tray using YOLO11 object detection.
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![YOLO11](https://img.shields.io/badge/YOLO11-Ultralytics-green)
