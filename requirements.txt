@@ -1,0 +1,9 @@
+streamlit>=1.45
+ultralytics
+torch
+torchvision
+opencv-python-headless
+numpy
+pandas
+plotly
+pillow

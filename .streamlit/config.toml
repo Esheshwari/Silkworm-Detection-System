@@ -1,0 +1,26 @@
+[theme]
+
+# Primary accent color
+primaryColor = "#00E5A8"
+
+# Main background
+backgroundColor = "#0B1120"
+
+# Sidebar / cards
+secondaryBackgroundColor = "#111827"
+
+# Text color
+textColor = "#F8FAFC"
+
+# Font
+font = "sans serif"
+
+[server]
+
+headless = true
+
+enableStaticServing = true
+
+[browser]
+
+gatherUsageStats = false
