@@ -42,23 +42,15 @@ This solution automates the counting process, reducing manual effort while impro
 
 ---
 
-## 🖥️ Demo
+## Demo
 
 ### Dashboard
 
-*(Add a screenshot here after deployment)*
+https://github.com/user-attachments/assets/3ae3498a-d443-4900-b2af-9a299695f0aa
 
-```
-assets/demo/dashboard.png
-```
 
-### Detection Example
+https://silkworm-detection-system.streamlit.app/
 
-*(Add another screenshot here)*
-
-```
-assets/demo/detection.png
-```
 
 ---
 
