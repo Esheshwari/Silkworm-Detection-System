@@ -294,7 +294,7 @@ The project can be deployed on:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Esheshwari Kumari**
 
