@@ -120,10 +120,6 @@ Bounding Boxes              Object Count
 
 - Streamlit
 
-### Dataset
-
-- MST-100 Dataset
-
 ---
 
 # Project Structure
@@ -158,21 +154,6 @@ Silkworm-Detection/
 └── .streamlit/
     └── config.toml
 ```
-
----
-
-# Dataset
-
-The project uses the **MST-100** silkworm object detection dataset.
-
-Dataset characteristics include:
-
-- 1200 annotated images
-- Bounding box annotations
-- Single object class (Silkworm)
-- YOLO annotation format
-
----
 
 # Installation
 
